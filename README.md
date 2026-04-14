@@ -4,6 +4,7 @@
 - [APPLEONE](https://luffm.github.io/APPLEONE/)
 - [Apollo-sha](https://luffm.github.io/Apollo-sha/)
 - [Beverly (photographic)](https://luffm.github.io/Beverly-photo/)
+- [Cuties](https://luffm.github.io/Cuties/)
 - [Epoch (photographic)](https://luffm.github.io/Epoch-photo/)
 - [Sunbird (photographic)](https://luffm.github.io/Sunbird-photo/)
 
