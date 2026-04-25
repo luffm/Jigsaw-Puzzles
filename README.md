@@ -12,4 +12,5 @@
 
 ## European brands
 
+- [Bluebird](https://luffm.github.io/Bluebird/)
 - [Ricordi](https://luffm.github.io/Ricordi/)
