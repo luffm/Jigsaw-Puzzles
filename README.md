@@ -4,6 +4,7 @@
 - [APPLEONE](https://luffm.github.io/APPLEONE/)
 - [Apollo-sha](https://luffm.github.io/Apollo-sha/)
 - [Artbox-Ensky](https://luffm.github.io/Artbox-Ensky/)
+- [Beverly](https://luffm.github.io/Beverly/)
 - [Beverly (photographic)](https://luffm.github.io/Beverly-photo/)
 - [Cuties](https://luffm.github.io/Cuties/)
 - [Epoch (photographic)](https://luffm.github.io/Epoch-photo/)
