@@ -16,6 +16,7 @@
 - [Konami](https://luffm.github.io/Konami/)
 - [ROAD](https://luffm.github.io/ROAD/)
 - [ROAD (photographic)](https://luffm.github.io/ROAD-photo/)
+- [Sammy](https://luffm.github.io/Sammy/)
 - [Sanyo Pleasure](https://luffm.github.io/Sanyo-Pleasure/)
 - [Sanzu](https://luffm.github.io/Sanzu/)
 - [Sunbird](https://luffm.github.io/Sunbird/)
@@ -28,6 +29,9 @@
 
 ## European brands
 
+- [Anatolian](https://luffm.github.io/Anatolian/)
+- [Arrow Games](https://luffm.github.io/Arrow-Games/)
+- [Art Puzzle (Heidi)](https://luffm.github.io/Art-Puzzle/)
 - [Bluebird](https://luffm.github.io/Bluebird/)
 - [Castorland](https://luffm.github.io/Castorland/)
 - [Clementoni](https://luffm.github.io/Clementoni/)
@@ -40,10 +44,27 @@
 - [Heye](https://luffm.github.io/Heye/)
 - [Jumbo](https://luffm.github.io/Jumbo/)
 - [Lais Puzzle](https://luffm.github.io/Lais-Puzzle/)
+- [LOM ART](https://luffm.github.io/LOM-ART/)
 - [MB](https://luffm.github.io/MB/)
+- [Nemesis Now](https://luffm.github.io/Nemesis-Now/)
+- [Past Times](https://luffm.github.io/Past-Times/)
 - [Peony Press](https://luffm.github.io/Peony-Press/)
 - [Piatnik](https://luffm.github.io/Piatnik/)
 - [Ravensburger](https://luffm.github.io/Ravensburger/)
+- [Robert Frederick](https://luffm.github.io/Robert-Frederick/)
 - [Ricordi](https://luffm.github.io/Ricordi/)
+- [Ronin](https://luffm.github.io/Ronin/)
 - [Schmidt](https://luffm.github.io/Schmidt/)
+- [Selegiochi](https://luffm.github.io/Selegiochi/)
+- [Skittledog](https://luffm.github.io/Skittledog/)
+- [Tactic](https://luffm.github.io/Tactic/)
+- [TOP Puzzles](https://luffm.github.io/TOP-Puzzles/)
+- [Trefl](https://luffm.github.io/Trefl/)
 - [Waddingtons](https://luffm.github.io/Waddingtons/)
+
+## Other brands
+
+- [Lang](https://luffm.github.io/Lang/)
+- [Puzzle-Me](https://luffm.github.io/Puzzle-Me/)
+- [Tuttle](https://luffm.github.io/Tuttle/)
+- [No Brand](https://luffm.github.io/No-Brand/)
