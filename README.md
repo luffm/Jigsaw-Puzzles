@@ -65,6 +65,6 @@
 ## Other brands
 
 - [Lang](https://luffm.github.io/Lang/)
-- [Puzzle-Me](https://luffm.github.io/Puzzle-Me/)
+- [Puzzle Me (Brazil)](https://luffm.github.io/Puzzle-Me/)
 - [Tuttle](https://luffm.github.io/Tuttle/)
 - [No Brand](https://luffm.github.io/No-Brand/)
