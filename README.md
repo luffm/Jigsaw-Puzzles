@@ -3,7 +3,7 @@
 - [Aoshima](https://luffm.github.io/Aoshima/)
 - [APPLEONE](https://luffm.github.io/APPLEONE/)
 - [Apollo-sha](https://luffm.github.io/Apollo-sha/)
-- [Artbox-Ensky](https://luffm.github.io/Artbox-Ensky/)
+- [Artbox Ensky](https://luffm.github.io/Artbox-Ensky/)
 - [Beverly](https://luffm.github.io/Beverly/)
 - [Beverly (photographic)](https://luffm.github.io/Beverly-photo/)
 - [BON](https://luffm.github.io/BON/)
